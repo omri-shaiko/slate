@@ -95,7 +95,7 @@ Thanks to the following people who have submitted major pull requests:
 - [@realityking](https://github.com/realityking)
 - [@cvkef](https://github.com/cvkef)
 
-Also, thanks to [Sauce Labs](http://saucelabs.com) for helping sponsor the project.
+ Also, thanks to [Sauce Labs](http://saucelabs.com) for helping sponsor the project.
 
 Special Thanks
 --------------------
